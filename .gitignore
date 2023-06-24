@@ -162,3 +162,11 @@ cython_debug/
 /Elliptic/data
 
 *.png
+
+AML IBM/Data/
+
+AML IBM/wandb/
+
+*.pickle
+
+*.pt
